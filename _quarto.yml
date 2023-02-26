@@ -6,6 +6,8 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: envelope
+        href: mailto:stewart.j.patterson@gmail.com
       - icon: facebook
         href: https://www.facebook.com/stew.patterson
       - icon: linkedin
@@ -29,3 +31,5 @@ editor: visual
 
 margin-header: subscribe.html # Email subscription widget
 
+site-url: https://pattersonsinjapan.com/
+description: "Patterson Prayer Friends"

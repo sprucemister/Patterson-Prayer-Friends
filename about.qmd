@@ -4,6 +4,9 @@ image: profile.jpg
 about:
   template: trestles
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:stewart.j.patterson@gmail.com
     - icon: facebook
       text: Facebook
       href: https://www.facebook.com/stew.patterson/
@@ -20,11 +23,11 @@ website:
   description: "A great sample blog"
 ---
 
-Stewart,
-Emma Claire,
-& boys in Japan
+Stewart, Emma Claire, & boys in Japan
 
-<hr></hr>
+<hr>
+
+</hr>
 
 We are moving to Japan hoping to share about Christmas, Easter, and everything in between
 
