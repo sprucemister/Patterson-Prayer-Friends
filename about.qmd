@@ -7,6 +7,9 @@ about:
     - icon: envelope
       text: Email
       href: mailto:stewart.j.patterson@gmail.com
+    - icon: piggy-bank-fill
+      text: Donate
+      href: https://www.sunriseinternational.org/financial-support/
     - icon: facebook
       text: Facebook
       href: https://www.facebook.com/stew.patterson/

@@ -8,6 +8,8 @@ website:
       - about.qmd
       - icon: envelope
         href: mailto:stewart.j.patterson@gmail.com
+      - icon: piggy-bank-fill
+        href: https://www.sunriseinternational.org/financial-support/
       - icon: facebook
         href: https://www.facebook.com/stew.patterson
       - icon: linkedin
