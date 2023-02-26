@@ -1,0 +1,19 @@
+---
+title: ""
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: true # enables RSS feed
+page-layout: full
+title-block-banner: header.jpg
+---
+
+![](header.jpg) <br>
+
+<hr>
+
+</hr>

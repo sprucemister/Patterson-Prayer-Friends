@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Patterson Prayer Friends"
+  navbar:
+    right:
+      - about.qmd
+      - icon: facebook
+        href: https://www.facebook.com/stew.patterson
+      - icon: linkedin
+        href: https://www.linkedin.com/in/stewart-patterson-4ab19781/
+      - icon: github
+        href: https://github.com/
+      - icon: rss
+        href: index.xml
+        
+  open-graph: true
+
+format:
+  html:
+    # title-block-banner: profile.jpg
+    theme: 
+      light: minty
+      dark: slate
+    css: styles.css
+
+editor: visual
+
+margin-header: subscribe.html # Email subscription widget
+

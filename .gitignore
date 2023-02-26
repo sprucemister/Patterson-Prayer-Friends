@@ -1,0 +1,8 @@
+/.quarto/
+/_site/
+*.Rproj
+*.Rprojuser
+*.RprojUser
+*.Rproj.user
+*.Rproj.User
+.Rproj.user

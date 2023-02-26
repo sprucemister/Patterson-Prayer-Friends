@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: af108dc4-7ce3-4c42-a8bc-32cc637f8814
+      url: 'https://pattersonsinjapan.com'

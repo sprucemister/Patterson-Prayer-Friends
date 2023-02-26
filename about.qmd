@@ -1,0 +1,35 @@
+---
+title: "About - Pattersons In Japan"
+image: profile.jpg
+about:
+  template: trestles
+  links:
+    - icon: facebook
+      text: Facebook
+      href: https://www.facebook.com/stew.patterson/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stewart-patterson-4ab19781/
+    - icon: github
+      text: Github
+      href: https://github.com/sprucemister/
+# below site-url and description enables rss feed
+website:
+  title: "myblog"
+  site-url: https://www.myblogexample.io
+  description: "A great sample blog"
+---
+
+Stewart,
+Emma Claire,
+& boys in Japan
+
+<hr></hr>
+
+We are moving to Japan hoping to share about Christmas, Easter, and everything in between
+
+As well as learn about a different culture, go on adventures, and eat lots of ramen
+
+We appreciate your reading about our adventure!
+
+よろしくね！
