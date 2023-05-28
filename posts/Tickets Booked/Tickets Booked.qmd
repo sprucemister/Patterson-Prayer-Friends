@@ -1,5 +1,5 @@
 ---
-title: "Ready To Go"
+title: "Tickets Booked"
 description: "Leaving June 15"
 author: "Emma Patterson"
 date: "5/27/2023"
