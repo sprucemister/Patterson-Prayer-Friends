@@ -4,6 +4,9 @@ image: profile.jpg
 about:
   template: trestles
   links:
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/pattersons_in_japan/
     - icon: envelope
       text: Email
       href: mailto:stewart.j.patterson@gmail.com

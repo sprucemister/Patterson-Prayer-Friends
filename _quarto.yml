@@ -6,6 +6,8 @@ website:
   navbar:
     right:
       - about.qmd
+      - icon: instagram
+        href: https://www.instagram.com/pattersons_in_japan/
       - icon: envelope
         href: mailto:stewart.j.patterson@gmail.com
       - icon: piggy-bank-fill
