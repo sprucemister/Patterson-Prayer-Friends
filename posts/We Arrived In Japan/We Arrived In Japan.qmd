@@ -2,7 +2,7 @@
 title: "We Arrived In Japan"
 description: "ついに日本に！"
 author: "Stewart Patterson"
-title-block-banner: images/profile.jpg
+# title-block-banner: images/profile.jpg
 date: "6/17/2023"
 draft: false
 ---
