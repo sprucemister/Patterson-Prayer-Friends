@@ -1,0 +1,10 @@
+Take the post, put it in downloads, render it in a separate project
+
+Copy and post the rendered page from Chrome into a Gmail draft
+
+Remove and replace the pictures (make sure you put them in the right place)
+
+Export contact list from mailchimp
+
+To: Patterson Prayer Friends<PattersonsInJapan@gmail.com>
+BCC: everyone else
