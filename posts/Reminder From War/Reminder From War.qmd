@@ -1,0 +1,54 @@
+---
+# theme: cerulean
+title: "Reminder From War"
+title-block-banner: images/japan.jpg
+description: "He Gives And Takes Away"
+author: "Stewart Patterson"
+date: "10/08/2023"
+---
+
+When I heard the news of new war breaking out in Israel this week, and was reminded of the continual war in Ukraine and Myanmar, I felt as if someone had jumped on my chest to wake me from a deep sleep.
+
+We've had a great month in Japan. I accepted a job offer for a great job in Tokyo where I can continue to enjoy my career in data analytics. The weather has been slightly cooler, and it's a treat to be outside in daytime or nighttime. Our house feels organized. Our church family here is loving. I've been making some friends playing tennis.
+
+In light of that I'm reminded of these words:
+
+
+::: {.callout-note appearance="minimal"}
+*He sets the time for sorrow and the time for joy, the time for mourning and the time for dancing,  the time for making love and the time for not making love, the time for kissing and the time for not kissing.* -Ecclesiastes
+:::
+
+::: {.callout-note appearance="minimal"}
+*Sorrow is better than laughter,
+for a sad countenance is good for the heart.* -Ecclesiastes
+:::
+
+I must not groan the sad, dark news that comes to spoil the fun, but be reminded that the pleasures of the world are but for a moment, but the Hope which comes from God is eternal.
+
+After all, as Christians we must remember the darkest day
+
+::: {.callout-note appearance="minimal"}
+*They crucified two rebels with him, one on his right and one on his left. Those who passed by hurled insults at him, shaking their heads and saying, “So! You who are going to destroy the temple and build it in three days, come down from the cross and save yourself!” In the same way the chief priests and the teachers of the law mocked him among themselves. “He saved others,” they said, “but he can’t save himself! Let this Messiah, this king of Israel, come down now from the cross, that we may see and believe.” Those crucified with him also heaped insults on him. At noon, darkness came over the whole land until three in the afternoon.* - Mark
+:::
+
+which gave light to the brightest morning.
+
+::: {.callout-note appearance="minimal"}
+*He is not here. He is risen, just as He said.* - Matthew
+:::
+
+![Japan In A Nutshell (Golf Range in Background)](images/japan.jpg)
+
+![Puppy Cafe](images/puppy.jpg)
+
+![High School Lacrosse](images/lax.jpg)
+
+
+![Drink](images/jack.jpg)
+
+![Flower](images/flower.jpg)
+
+![運動会 Sports Festival](images/sports.jpg)
+
+![Autumn Persimmons](images/fall.jpg)
+
