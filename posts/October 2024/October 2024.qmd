@@ -2,7 +2,7 @@
 title: "October 2024"
 description: "It's been too long"
 author: "Emma Patterson"
-date: "10/22/2023"
+date: "10/22/2024"
 ---
 
 
