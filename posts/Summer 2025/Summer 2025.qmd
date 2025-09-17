@@ -2,7 +2,7 @@
 title: "Summer 2025"
 description: "Summer 2025"
 author: "Emma Patterson"
-# title-block-banner: images/home.jpg
+title-block-banner: images/flower.jpg
 date: "9/17/2025"
 draft: false
 ---
